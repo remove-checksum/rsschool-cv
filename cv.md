@@ -33,6 +33,10 @@ Aspiring front-end developer. Disciplined, attentive, curious. Interested in web
   - Docker
   - npm/Yarn
   - Linux userspace
+- **Misc**
+  - Wordpress
+  - Bootstrap
+  - Element (ui-kit for Vue)
 
 ## Code Examples
 
