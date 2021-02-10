@@ -1,0 +1,47 @@
+# **German Isaakyan**
+
+## Contacts
+
+- **Email:** <bz5h7@yandex.ru>
+
+## Personal Summary
+
+Aspiring front-end developer. Disciplined, attentive, curious. Interested in web-apps and psychology.
+
+## Previous experience
+
+- **Courses**
+  - [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science) - edX
+- **Jobs**
+  - 2020 - Wordpress freelance
+
+## Skills
+
+- **Programming Languages:**
+  - JavaScript (both nodejs and browser)
+  - Bash
+- **Frameworks**
+  - Vue (Vuex, vue-router)
+- **Markup and styling**
+  - HTML
+  - CSS (Sass)
+  - Markdown
+- **Tools**
+  - git
+  - Webpack
+  - eslint
+  - Docker
+  - npm/Yarn
+  - Linux userspace
+
+## Code Examples
+
+```sh
+TBD='to be done'
+echo TBD
+```
+
+## Languages
+
+- Russian - native
+- English - Intermediate(B1)
