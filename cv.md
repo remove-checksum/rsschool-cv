@@ -46,6 +46,12 @@ TBD='to be done'
 echo TBD
 ```
 
+```js
+let messages = [ 'to be done', 'but in js'];
+let [ message, rest ] = messages;
+console.log(message + rest)
+```
+
 ## Languages
 
 - Russian - native
