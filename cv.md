@@ -12,6 +12,7 @@ Aspiring front-end developer. Disciplined, attentive, curious. Interested in web
 
 - **Courses**
   - [cs50](https://www.edx.org/course/cs50s-introduction-to-computer-science) - edX
+  - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) - edX
 - **Jobs**
   - 2020 - Wordpress freelance
 
