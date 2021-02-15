@@ -4,7 +4,7 @@
 
 - **Email:** <bz5h7@yandex.ru>
 
-## Personal Summary
+## Personal summary
 
 Aspiring front-end developer. Disciplined, attentive, curious. Interested in web-apps and psychology.
 
@@ -18,7 +18,7 @@ Aspiring front-end developer. Disciplined, attentive, curious. Interested in web
 
 ## Skills
 
-- **Programming Languages:**
+- **Programming Languages**
   - JavaScript (both nodejs and browser)
   - Bash
 - **Frameworks**
@@ -39,7 +39,7 @@ Aspiring front-end developer. Disciplined, attentive, curious. Interested in web
   - Bootstrap
   - Element (ui-kit for Vue)
 
-## Code Examples
+## Code examples
 
 ```sh
 TBD='to be done'
