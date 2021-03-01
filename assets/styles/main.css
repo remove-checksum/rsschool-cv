@@ -94,7 +94,7 @@ h2 > a:visited {
   align-items: center;
 }
 
-.footer-wrapper *:last-child {
+.footer-wrapper span {
   margin-left: auto;
   margin-right: 48px;
 }
