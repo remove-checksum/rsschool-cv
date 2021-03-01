@@ -87,11 +87,16 @@ h2 > a:visited {
   padding-bottom: 18px;
 }
 
-.links-wrapper {
+.footer-wrapper {
   height: 100%;
   display: flex;
   justify-content: start;
   align-items: center;
+}
+
+.footer-wrapper *:last-child {
+  margin-left: auto;
+  margin-right: 48px;
 }
 
 .link {
